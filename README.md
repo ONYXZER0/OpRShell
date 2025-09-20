@@ -1,8 +1,8 @@
-# reverse-shell-generator
+# Operation Stealth Shell
 
 
 ### Hosted Instance
-https://revshells.com
+[https://ghostfalconops.github.io/OpRShell/]
 
 ### Features
 
