@@ -2,7 +2,7 @@
 
 
 ### Hosted Instance
-[https://ghostfalconops.github.io/OpRShell/]
+[https://ONYXZER0.github.io/OpRShell/]
 
 ### Features
 
